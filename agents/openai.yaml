@@ -1,0 +1,4 @@
+interface:
+  display_name: "TV Detox Helper"
+  short_description: "Limpeza guiada de TVs Android, Google TV e webOS"
+  default_prompt: "Use $tv-detox-helper para identificar minha TV e preparar uma limpeza compatível, preservando os apps que uso e documentando a reversão."
